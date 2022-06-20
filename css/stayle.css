@@ -1,0 +1,70 @@
+.minhaz{
+    width: 1200px;
+    height: 1200px;
+    background-color: black;
+}
+.minhaza{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(165, 19, 214);
+    border-radius: 50%;
+    left: 50px;
+    top: 20px;
+    
+    
+    position: absolute;
+}
+.minhazb{
+    width: 250px;
+    height: 350px;
+    background-color: rgba(118, 108, 108, 0.769);
+    top: 100px;
+    left: 120px;
+    position: absolute;
+    color:rgba(118, 108, 108, 0.769) ;
+    text-align: center;
+    
+}
+.minhazb:hover{ color:white;
+    border-radius: 25px;
+}
+.minhazb:hover a{
+    border-radius: 25px;
+    background-color:white;
+    color:rgba(118, 108, 108, 0.769);
+}
+.boxa{
+    width: 500px;
+    height: 300px;
+    background-color: slateblue;
+    position: absolute;
+    right: 0px;
+    bottom: 50px;
+    border-radius: 50%;
+}
+.boxa:hover{
+    background-color: brown;
+}
+.boxb{
+    width: 250px;
+    height: 350px;
+    background-color:rgba(118, 108, 108, 0.769) ;
+    top: 500px;
+    left: 120px;
+    position: absolute;
+    text-align: center;
+    color:rgba(118, 108, 108, 0.769) ;
+}
+.boxb:hover a{
+    border-radius: 25px;
+    background-color:white;
+    color:rgba(118, 108, 108, 0.769);
+}
+.boxb:hover{
+    color: white;
+    border-radius: 25px;
+    font-family: initial;
+}
+.minhaza:hover{
+    background-color: greenyellow;
+}
